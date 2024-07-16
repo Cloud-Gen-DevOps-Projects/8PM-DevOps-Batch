@@ -1,5 +1,6 @@
 # 8PM-DevOps-Batch
 
+# hello guys this file will help you to install latest version of git in all redhat family OS'es
 yum update -y
 
 hostnamectl set-hostname cicdserver
